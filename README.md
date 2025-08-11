@@ -4,3 +4,4 @@ Um jogo interativo onde você faz escolhas e decide o seu caminho! Com apenas um
 
 <img width="1920" height="1391" alt="descricao" src="https://github.com/user-attachments/assets/e871e1eb-e546-48bf-b5b9-a324f01cf879" />
 
+App desenvolvido em 7 dias para Apple Developer Academy
